@@ -294,7 +294,7 @@ export const PackageCardBottom = styled.div`
   /* size={'14px'} weight={400} color={THEME.primary_color} */
   font-size: 14px;
   font-weight: 400;
-  color: red;
+  color: ${THEME.primary_color};
 }
 `
 //pick where you left styles ends =====>
